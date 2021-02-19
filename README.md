@@ -13,7 +13,7 @@ I'm currently learning Java, and Kotlin. (Maybe flutter ASAP)
 I'm looking to have a remote job on a dream company like Google etc.
 
 ## Reach Me 📫
-- [Email](mailto:fadlynj@gmail.com)
+- [Email](https://mailhide.io/en/e/Jm4hDiWq)
 - [Instagram](https://instagram.com/fadlynj)
 - [Twitter](https://twitter.com/fadlynugie)
 
