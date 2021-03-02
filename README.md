@@ -8,9 +8,9 @@ Currently a student at Raden Umar Said Vocational High School majoring Software 
 
 I'm heavily interested in Mobile Apps Development
 
-I'm currently learning Java, and Kotlin. (Maybe flutter ASAP)
+I'm currently learning Java, and Kotlin, also Flutter
 
-I'm looking to have a remote job on a dream company like Google etc.
+I'm looking to have a remote job on my dream company like Google etc.
 
 ## Reach Me 📫
 - [Email](https://mailhide.io/en/e/Jm4hDiWq)
